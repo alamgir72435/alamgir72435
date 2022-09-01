@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alamgir Ahamed</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamgir72435" alt="alamgir72435" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamgir72435" alt="alamgir72435" /></a> </p> -->
 
 - 🔭 I’m currently working on [BB Somity](https://somity.binarybunon.com)
 
